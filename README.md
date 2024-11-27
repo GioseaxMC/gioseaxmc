@@ -1,9 +1,6 @@
 ## Helo
 
-### I make whatever lololo
-
-## Working on
-[GxScript](https://github.com/GioseaxMC/gx-script)
+### Currently working on: [GxScript](https://github.com/GioseaxMC/gx-script)
 
 Learning CPP rn.
 
