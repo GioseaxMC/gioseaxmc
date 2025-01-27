@@ -1,8 +1,8 @@
 ## Helo
 
-### Currently working on: [GxScript](https://github.com/GioseaxMC/gx-script)
+### Currently working on: [Swami](https://github.com/GioseaxMC/swami)
 
-Learning CPP rn.
+Learning C rn.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&pause=1000&color=92FF9E&background=FFFFFF00&random=true&width=435&lines=I+need+love+bruh+%3Afire%3A)](https://git.io/typing-svg)
 
